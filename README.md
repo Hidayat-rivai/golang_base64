@@ -1,1 +1,3 @@
-# golang_base64
+# Base64
+- Encode
+- Decode
